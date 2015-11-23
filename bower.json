@@ -7,8 +7,7 @@
   "homepage": "http://vitalets.github.io/angular-xeditable",
   "main": [
     "dist/css/xeditable.css",
-    "dist/js/xeditable.js",
-    "../ngCurrencyMask/dist/ng-currency-mask.js"
+    "dist/js/xeditable.js"
   ],
   "ignore": [
     "**/.*",
