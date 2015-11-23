@@ -1,0 +1,33 @@
+{
+  "name": "ot-xeditable",
+  "version": "0.0.1",
+  "description": "Edit in place for AngularJS",
+  "author": "https://github.com/vitalets",
+  "license": "MIT",
+  "homepage": "http://vitalets.github.io/angular-xeditable",
+  "main": [
+    "dist/css/xeditable.css",
+    "dist/js/xeditable.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "playground",
+    "test",
+    "libs",
+    "docs",
+    "zip",
+    "src",
+    "starter",
+    "Gruntfile.js",
+    "index.html",
+    "jsdoc.conf.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": "~1.x",
+    "ngCurrencyMask": "ng-currency-mask#~1.0.61"
+  },
+  "devDependencies": {}
+}
